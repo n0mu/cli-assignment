@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+    <server>
+        <id>xml_id_1</id>
+        <name>xml_name_1</name>
+        <description>xml description 1</description>
+    </server>
+    <server>
+        <id>xml_id_2</id>
+        <name>xml_name_2</name>
+        <description>xml description 2</description>
+    </server>
+</servers>
